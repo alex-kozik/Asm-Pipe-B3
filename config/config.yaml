@@ -1,0 +1,47 @@
+### PROTEIN QUERY ###
+
+prot_queries:
+
+  NBS_Cons:    "/path_to_data/blast_queries/Lsat_NBS_Domain_Q1.amac"
+  RVT_Copia:   "/path_to_data/blast_queries/Lsat_RVT_Copia_ORF_Q1.amac"
+  RVT_Gypsy:   "/path_to_data/blast_queries/Lsat_RVT_Gypsy_ORF_Q1.amac"
+
+### DNA NUCL QUERY ###
+
+nucl_queries:
+
+  Lsat_Chlp:   "/path_to_data/blast_queries/Chlp_Lsat_DQ383816.fasta"
+  Lsat_Mito:   "/path_to_data/blast_queries/Mito_Lsat_MK642355.fasta"
+
+  LST_00_Telo: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_00.DNA.fasta"
+  LST_01_Ribo: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_01.DNA.fasta"
+  LST_02_CenA: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_02.DNA.fasta"
+  LST_03_CenB: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_03.DNA.fasta"
+  LST_04_TND_: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_04.DNA.fasta"
+  LST_05_TND_: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_05.DNA.fasta"
+  LST_06_CenA: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_06.DNA.fasta"
+  LST_07_CenD: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_07.DNA.fasta"
+  LST_08_TND_: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_08.DNA.fasta"
+  LST_09_TNDW: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_09.DNA.fasta"
+  LST_10_TNDW: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_10.DNA.fasta"
+  LST_11_TND_: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_11.DNA.fasta"
+  LST_12_CenA: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_12.DNA.fasta"
+  LST_13_TNDW: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_13.DNA.fasta"
+  LST_14_CenB: "/path_to_data/blast_queries/_fasta_seqs_tandems_X15T_12_/LST_14.DNA.fasta"
+
+### ASSEMBLY FASTA FILES ###
+
+assemblies: 
+
+  Lsat_Salinas_V11RS: "/path_to_data/assemblies/GCF_002870075.4_Lsat_Salinas_v11_genomic.fna" 
+  Lsat_Salinas_V14HF: "/path_to_data/assemblies/Lsat_Sal_Hybrid_Hifiasm_D_Genome.Asm.2023.03.28.fa" 
+  Lsat_Salinas_V14VK: "/path_to_data/assemblies/Lsat_Sal_Hybrid_Verkko_D_Genome.Asm.2023.03.28.fa" 
+
+  Lsat_Olof_Asm_V01:  "/path_to_data/assemblies/Lsat_Olof_V1_Assembly.240131.Fasta" 
+
+  Lser_Armen999_V14:  "/path_to_data/assemblies/Lser_Armenian999_V14_Assembly.240110.Fasta" 
+  Lser_US96UC23_V14:  "/path_to_data/assemblies/Lser_US96UC23_V14_Assembly.240110.Fasta" 
+
+############################
+
+############################
